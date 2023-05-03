@@ -801,31 +801,31 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Call To Action Section
+# About Our Sponsor
 --------------------------------------------------------------*/
-.call-to-action {
+.about-our-sponsor {
   background: linear-gradient(rgba(14, 29, 52, 0.6), rgba(14, 29, 52, 0.8)), url("../img/cta-bg.jpg") center center;
   background-size: cover;
   padding: 100px 0;
 }
 
 @media (min-width: 1365px) {
-  .call-to-action {
+  .about-our-sponsor {
     background-attachment: fixed;
   }
 }
 
-.call-to-action h3 {
+.about-our-sponsor h3 {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
 }
 
-.call-to-action p {
+.about-our-sponsor p {
   color: #fff;
 }
 
-.call-to-action .cta-btn {
+.about .cta-btn {
   font-family: var(--font-primary);
   font-weight: 500;
   font-size: 16px;
